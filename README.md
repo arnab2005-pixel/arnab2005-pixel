@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/arnab-dinda-727233371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
   <a href="https://codeforces.com/profile/Wingg_Arnab"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile"/></a>
   <a href="https://leetcode.com/u/Wingg_Arnab/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java Badge"/>
 </p>
 
 <table width="100%">
