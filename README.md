@@ -39,12 +39,6 @@
 </tr>
 </table>
 
-<h2>🚀 What I’m Shipping</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=arnab2005-pixel&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224734766%3Fu%3D561137627e78f067bb7d580751931f96209ac47a%26v%3D4&items=MALO_MARS_HiRes_Render%3A%3A3D%20Graphics%7CWorkSpot%3A%3AProductivity%20Workspace%7CCodeForce%3A%3AAlgorithms%20%26%20CP" width="100%" alt="Highlights" />
-</p>
-
 <h2>🛠️ All Repositories & Selected Projects</h2>
 
 <table width="100%">
@@ -72,22 +66,7 @@
 </tr>
 </table>
 
-<h2>📊 Coding Stats & Profile Metrics</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=arnab2005-pixel&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224734766%3Fu%3D561137627e78f067bb7d580751931f96209ac47a%26v%3D4" width="100%" alt="Repository stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnab2005-pixel&show_icons=true&theme=nord&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab2005-pixel&theme=nord&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
 <h2>💻 Complete Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=arnab2005-pixel&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224734766%3Fu%3D561137627e78f067bb7d580751931f96209ac47a%26v%3D4" width="100%" alt="Language stack" />
-</p>
 
 <div align="center">
   <h3>Languages & Core Programming</h3>
@@ -99,15 +78,6 @@
   <h3>Databases & Development Tools</h3>
   <img src="https://skillicons.dev/icons?i=redis,git,linux,vscode,discord&perline=5" alt="Tools & Systems" />
 </div>
-
-<h2>📈 GitHub Activity</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=arnab2005-pixel&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224734766%3Fu%3D561137627e78f067bb7d580751931f96209ac47a%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=arnab2005-pixel&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224734766%3Fu%3D561137627e78f067bb7d580751931f96209ac47a%26v%3D4&mode=dark" width="100%" alt="Contributions heatmap" />
-  </picture>
-</p>
 
 <hr />
 
@@ -125,4 +95,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>Arnab Dinda · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Arnab Dinda</sub></p>
